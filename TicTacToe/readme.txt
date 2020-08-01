@@ -1,0 +1,2 @@
+- cocosdx version : 3.17
+- youtube : https://youtu.be/7jsKRbefp_s
